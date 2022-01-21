@@ -9,3 +9,9 @@
 - styled-components: 5.3.3
 - react-apexcharts: 1.3.9
 - react-helmet: 6.1.0
+- recoil: 0.5.2
+
+### Dev List
+- [x] Get crypto API data to use react-query
+- [x] make chart with react-apexcharts
+- [x] Dark, Light theme toggle
